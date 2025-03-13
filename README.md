@@ -17,7 +17,7 @@ This application uses third party API(sponncular API) inorder to suggest the pos
 ## Installation
 To run Recipe Finder app:
 ```shell
-git clone https://github.com/nixtomalon/recipe-finder.git
+git clone https://github.com/gopal0204/recipe.git
 flutter clean
 flutter pub get
 dart run build_runner build
